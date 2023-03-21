@@ -1,0 +1,11 @@
+html{
+    background: url(https://blog.syncano.rocks/content/images/2016/02/react-logo.png);
+    background-position-y: 150px;
+    color: white;
+    font-family: sans-serif;
+    background-size: cover;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
